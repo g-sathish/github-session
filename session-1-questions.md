@@ -20,3 +20,4 @@ Answer:
 3. To collaborate with the students and the students to collaborate with the other students of the same class
 4. To autograde the assignments
 5. To collaborate with the student on their particular assignment they've working on.
+6. To create static github pages which the teacher can use it as a single stop for sharing all the resources related to the training.
